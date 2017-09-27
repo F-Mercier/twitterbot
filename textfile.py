@@ -77,4 +77,4 @@ regex_bitcoin = r'[^#](?i)(bitcoin)'
 for i in range(10):
 	markov = modelcombo.make_short_sentence(140)
 	markov = re.sub(regex_bitcoin, ' #bitcoin', markov)
-	print(markov)
+	api.update_status(markov)
