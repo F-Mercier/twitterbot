@@ -1,500 +1,200 @@
 /r/Bitcoin FAQ - Newcomers please read
 Price Thread [September 15, 2017]
 If Bitcoin hits $100K, I think I care less about being rich than I do about rubbing it in everyones face that kept calling it a scam.
-NYA signers love to say we're on the same side. We are not. If you're pushing a contentious fork that will harm #Bitcoin, you're an enemy.
-Watch out! Fake bitaddress
+One satoshi is now one venezuelan bolívar
+Bitcoin newbie VS veteran
+[Segwit2x attack] Here Jeff Garzik is trying to hide 2X nodes
+So Coinomi's official response on the vulnerability I posted yesterday was that it's not a vulnerability and I'm just a "hater" spreading FUD
+An open letter to Erik Voorhees
+Charlie Lee puts his weight behind No2x movement
+Bitcoin Goes Past $4,000, Again! Next Stop $5,000?
+John Newberry, current highest commit core dev, unassociated with Blockstream (like almost all the other core devs). His take on core and why he has decided to work with the project.
+Welcome back to $4100, gentlemen!
+My first Bitcoin transaction in 2013 has been confirmed 265151 times.
+Bitcoin Tax in the UK - Explained
+I just helped my coworker send some money to her family via Bitcoin in Venezuela! A few months ago she was laughing at me about it, now it's helping her family buy food and water. Bitcoin really is amazing!
+Bitcoin has an attitude problem
+All Bitcoin has to do to become the premier store of value is... survive.
+How much you wanna bet Coinbase sends out a mass email to defuse fork litigation
+"Be greedy when others are fearful and fearful when others are greedy" - Warren Buffett
+My barbershop just decided to start accepting Bitcoin!
+Spam attack: “Six or seven pools have played a major role in stuffing blocks with spam transactions,” LaurentMT said. “And charts display what looks like a coordination between these pools.”
+Guy Carries 20k Cash Through San Francisco Airport When it Gets Seized by the DEA.....
+Dumb and Dumber: Accenture Awarded Patent for 'Editable Blockchain' Tech
 Jpm calls Bitcoin fraud... Gets prosecuted for... Fraud... LOL
-Our honeybadger in it's natural environment, today it gives no fucks.
-If Coinbase.com commits to the 2x chain, I may have to seek another exchange.
-"Early Adopter"
-Remember, UASF, not NYA activated Segwit. Many NYA signers suffer from extreme mental masturbation.
-Look who is inside the S2X-DCG Trojan horse. Burn this Corporate-takeover attempt down before it even gets close to the gates.
-Anyone who thinks developers will work on segwit2x/NYA hasn't been paying attention
-Future vs the past
 It is time to call off NYA/segwit2x and work together to scale Bitcoin to compete against Fiat. Please.
-Russia Officially Legalizes Bitcoin!
-4k finally
-/Stocks Mods On Monday
-Russia's Largest bank calling for legalization and experimentation with Bitcoin and Blockchain.
-SegWit2x/NYA support overview (segwit.party/nya alternative)
-London gold dealer Sharps Pixley to accept Bitcoin payment from customers
-Why don't the people that want 2x go over to bCash?
-Bill Gates Bitcoin Interviews - Bitcoin is Better Than Currency
-The segwit2k code is a mess
-Chinese paying 20% premium as P2P platforms see spike in usage
-"The NYA primary goal was to avoid network split. Unbelievably, NYA signers managed to cause two splits... Great strategy! Useful MBAs!"
-Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading
-Dallas Jury Nails J.P. Morgan Chase with $4B Verdict in Estate Fraud Case - Bitcoin a Fraud eh?
-British Airways have really upped their in-flight shopping options.
-Vaultoro withdraws SegWit2x support
-"If Bitcoin is subject to backroom takeover then it has failed, and we wouldn't waste our time improving & protecting a failed system" G.Maxwell
-What happens to your Bitcoin when you die?
-Bitcoin Hero Trolls Protest With "F**K Fiat" Sign
-Fake Bitgo as well! Google phishing schemes are getting more and more common. Make sure to bookmark your official wallet page and visit only via the bookmark.
-45 companies supporting 2X, 32 of these companies owned by DCG.
-JPMorgan does more fraud... I mean normal banking services
-Qr code made from 130,000 trees. Who is gonna be the first person to to create a giant bitcoin address?
-Xapo wallet is telling you to exchange BCH to BTC
-Distinguished London Gold Dealer Accepts Bitcoin for Payment.
+It's like China never happened! To The Moon! 4K↑↑↑
+"Bitmain controlled pools were spamming Bitcoin network to provide ammunition for blocksize increase lobbyists-- while making a killing on fees."
+Japanese Banks Are Planning to Launch J-Coin, a Digital Currency Meant to Kill Off Cash
+Wore my Bitcoin shirt to college today! :)
+Predicting the path for Bitcoin
+September: Bitcoin Mailing List vs BTC1 Mailing list
+BIP39 recovery seed stamped on stainless steel plates
+To signal non-support of Segwit2X, upgrade to 0.15, add uacomment=NO2X to bitcoin.conf and restart
+Bitcoin ‘More Than Just a Fad,’ Morgan Stanley CEO Says
+does anyone want a hodl pinback button?
+Grayscale Application to list bitcoin ETF has been withdrawn.
+New 24/7 Bitcoin ATM In Downtown Toronto at King Mini Mart (Supports BTC, ETH, LTC)
+Central banks called out
+Feels good
+Advice please
+Our honeybadger in it's natural environment, today it gives no fucks.
+Bitcoin Above $4,200, the New Bitcoin Gold and the Looming Hardfork
+Can we help No2x with running more bitcoin core nodes. starting from now?
+Best bitcoin apps
+Nigerian Central Bank Director Cryptocurrency Wave 'Cannot Be Stopped
+PBOC Media: Bitcoin and Blockchain Should Be Treated Separately
+Best short summary of the recent events regarding SegWit, UASF, and 2X
+"That's not Bitcoin, this is Bitcoin." - An overview of the ongoing disinformation campaign against Bitcoin. Please bookmark and share this with new members of the community when they ask you "What lies?"
+I am proud to start accepting bitcoin on my company!!! LISBOMBAS in Portugal!!!
+Ive got .001B (5 bucks) that says coinbase gets hit with a class action lawsuit if they follow the 2x fork. Heres why...
+Can we get a statement from Barry Silbert on what the point of 2x is now?
 Breadwallet becomes Bread, a decentralized financial institution
-Early Facebook exec turned early Bitcoin investor: "nobody can stop Bitcoin"
-There are now 34 companies in opposition to NYA, versus 33 in support on coin.dance. More than 50% oppose the hard fork.
-Vienna, Austria set up the world's first specialized Bitcoin Bank
-A balanced and educated opinion for Bitcoin from an experienced gold analyst.
-Vinny Linghams complete email dump RE: WhalePanda's tweet.
-Blockchain is now in india collaborated with Unocoin for easy buy of bitcoin
-On securing your bitcoin (redux)
-Bitcoin Visa/Master card - is there a need for a new one.
-Billionaire starting crypto hedge fund: Crypto Market Will Be 'Largest Bubble of Our Lifetimes'
-Forcing captive users onto a new dev team you control and letting miners make decisions so you can blame anonymous foreigners? No thanks.
-Changelly supports Bitcoin SegWit for lower fees
-Bitcoin VS Banks
-A rural, roadside Malaysian foodstall accepts Bitcoin
-Video: How Macro Trader Novogratz Became a Bitcoin Convert
-Morgan Stanley CEO Rejects Dimon: "Bitcoin Is Certainly More Than A Fad"
-RIP BitPremier :(
-On his way to beard-growing finals, he gets busted for drug dealing on the ‘dark web’
-Security Warning: Coinomi Wallet transmits all data in plain text
-How Do Forks Affect Long Term Hodlings?
-8 Days Processing from Coinbase
-Chinese bitcoin exchange BTCChina stops accepting deposits
-FYI the new IOS 11 camera automatically detects any qr codes.
-Are countries now copying bitcoin to create their own digital currency ?
-COINDESK: First Bitcoin , Now Bitcoin Gold? Another Bitcoin Hard Fork Is on the Way
-Huge: Multi-billion dollar gaming company Nexon acquires Korbit, South Korea's second largest crypto exchange
-Positive Bitcoin story while checking out at the grocery store tonight
-The market is waiting for a signal from China.
-A small recap of almost four years of spreading the word about Bitcoin to as many people as possible on every kind of communication channel. Let's not forget the important (but sometimes thankless) work that needs to be done - educating people about the technology!
-Basic question, where do you recommend I buy bitcoin?
-Who watched Startup? Thoughts?
-As buffoonish as Schiff sounds in this video, imagine how funny this will seem in 10 years.
-list of wallets with replay protection?
-First Cash, Now Gold? Another Bitcoin Hard Fork Is on the Way
-Received an unexpected text from my aunt..
-"Redesigning Bitcoin's fee market", a new paper by Lavi, Sattath & Zohar
-Paper wallet passphrase problem
-AMA Request: The guy who changed the crypto-world forever with his famous "I AM HODLING" post.
-Mildly Interesting- photo of Dave Chapelle and Jerry Sienfeld get coffee in a shop with a Bitcoin sign in the window!
+how do i prepare for a fork? (don't know to much on this)
+First thing I see when I get up in the morning. Daily reminder of why Bitcoin exists.
 Mempool is empty, average transaction fees are 1/4 of what they were in August, SegWit prevalence is growing. Can someone please explain why now is the time to fork 2x?
-Why is Segwit2X bad?
-The Centralised Elements To Bitcoin’s Ecosystem - Peter Vessenes Interview
-CBS's Showtime caught mining crypto-coins in viewers' web browsers
-Coin Sheet - September 27, 2017 (Daily Cryptocurrency Newsletter)
-Japans Largest Banks Plan Digital Currency J Coin for 2020 Olympics
-I made these to show my opinion on Segwit2x. Looking for feedback on my #NO2X design, would you wear these?
-has anyone used a "broker" where you deposit money into their bank
-Bitcoin- The Currency of New Age
-Sooooo...what does Jamie say when bitcoin hits 10K?
-Lightning Network with Jameson Loop
-Vinny Lingham: Segwit2x is not about increasing the block size, it's about removing "Core's" access and control of the Bitcoin repo to a group who believes that [Core] are technically sound, with no defined leadership, are unwilling to compromise and are a law unto themselves.
-The head of the Ministry of Economic Development compared bitcoin with the pyramid of MMM
-Bitcoin leads, businesses follow. It's NOT the other way round. The sooner CEOs embrace that reality, the more successful they'll be in this space.
-SCAM ALERT - fake Shapeshift site suggested by Google search's ads
-Mr Robot just posted a link to sign up for E-Corp's E-Coin! Join the Fedcoin revolution.
-What is your BTC/BCash hodling ratio?
-BTCC said at noon off the recharge function
-ELI5 Replay protection
-Which is best exchange for opening international account?
-Hold on. BTC about to bust out of the coral!
-South Korea's second largest exchange Korbit was acquired, valued at 150 million US dollars
-Roger promoting fake Bitcoin.
-Liberland2x: Preparation for the Hard Forking of Liberland with new Antarctica Agreement
-European Central Bank has No Power to Regulate Cryptocurrencies - CrypThor
-Namecheap is accepting Bitcoin now (not sure since when)!
-3 Charts: Bitcoin's Plunge Good for Gold and China's Yuan
-Are there any other Bitcoin trading platforms like eToro? (not exchanges like Bitfinex)
-Nicolas Dorier on Twitter: "I need people wishing to migrate from Bitpay or having an open source alternative to help testing." (Link)
-Gaming giant Nexon buys bitcoin exchange Korbit for $80m
-Bitcoin Price Once Again Eyes $4,000
-OSCARbit.com | Free Bitcoin Claiming | oscarbit provide U with Bitcoin F...
-Are YOUR Coins Really Safe with a Ledger Product?
-China's Prohibition Sparks $17.5 million All Time High Volumes on P2P Marketplace LocalBitcoins
-Bitcoin Price Is ‘Like MMM Ponzi Scheme’: Russian Economic Minister
-Bitcoin Rap
-What Happens to Cryptocurrency When You Die?
-What's the best promotion for new bitcoin accounts?
-The only comparison I need to make my decision between Core and NYA.
-I have 3 simple questions. Can someone answer please?
-bitstamp allows BCH withdrawal from now on!
-Technic Analysis on bitcoin be succesfull with me !
-Explain Segwit2x - what it is, why it's bad or why it's good
-Don't forget, free transactions are not free! Help remind new users that fees are a healthy part of the security of bitcoin
-Goldhändler Sharps Pixley akzeptiert Bitcoin | BTC-ECHO
-A simpler approach to store your wallet's mnemonic recovery seed phrase (in metal)
-It's Political: Why China Hates Bitcoin and Loves the Blockchain
-Bitcoin Boom or Bust?
-Bitcoin: This investor is set to start a $500 million hedge fund to ride the bitcoin 'bubble'
-ViaBTC release open source trading engine to fork on
-What is the date the Segwit2x hardfork is expected to be implemented?
-ViaBTC to become OTC trade platform
-PoW Bitcoin: "Breakout Time" - 9/27/2017
-Bitcoin as national currency?
-Staying current: Bitcoin and other cryptocurrencies
-Alan Silbert's BitPremier site for buying luxury products and real estate calls it quits (goes belly up) after taking the personal information of untold numbers of bitcoin investors and holders
-MtGoxProtest: Who will get our 200,000 bitcoins?
-Hmmmm....
-Wanted to keep track of my Bitcoin price predictions, so I created a simple app to do so. Linked is McAfee's now famous 500k prediction as an example.
-0 fee transaction finally got confirmed after 43 hours :)
-Bitcoin Ethiopia place, difficult to find
-If the defining feature of Fiat currency is that it is "by decree" (ie nothing of value backing it), then how is Bitcoin NOT fiat?
-Equifax doesn't have a lot of options. Here's one.
-Patent Filing Suggests Bitcoin Exchanges may be Monitored - Bitcoin News - validation = Bullish!
-Lessons from bans - Uber and Bitcoin - Notes on New Technologies
-Bitcoin (Core) hardware watch (full node on your wrist)
-If bitcoin succeeds at being sovereign, we succeed at building solutions of top of it. Any other way, we rather go do something else.
-Could satoshi be the death of his own protocol?
-SLUG MARKET
-How does a miner learn the difficulty?
-Oldest Bitcoin Exchange Fights Back!
-Need some help with buying BTC
-Will Mining CryptoCurrency on Porn Tube Sites be the Way of the Future?
-What effect will crytocurrencies have on the economy? Any general opinions?
-Full nodes on smart phones
-Where to buy bitcoins with gift cards?
-List of current SW2X supporting companies, including their contact to express your opinion
-Segwit 1MB v Segwit 2MB Debacle
-Localbitcoins BCC replaced by BTC to customers
-Putting the power into the users hands
-Buy bitcoin sign at the Corbyn rally in glorious 360
-Coal Exports Banned? No Problem: North Korea Goes Bitcoin Mining
-LBC airdropped uasf fork arrears
-IBM Plans Its Blockchain Dominance
-Idea for a P2P alternative to BitPay
-Bitcoin Middleman: Wanna Trade with Me, Please Cross the Great Firewall
-Bitcoin and Copper in Lockstep Show Chinese Speculators' Power
-On Bitcoin Put Options
-Coinbase USD wallet
-Help avoid replay attack! n00b
-Wallets cannot estimate fees
-Viral Shannon Sharpe video plugs Bitcoin as "valuable" as gold
-Kraken no longer allowing USD withdraw for USA members. No idea why. krakens wire withdraw no longer working for over a week.
-Wall Street bank giants why angry spray bit coins? Or because there is a ghost in the heart
-Someone asked Federal Reserve Chairman of Minneapolis District if Bitcoin is a threat to the FED! 23 minute mark, he said No
-How to buy Bitcoin using fiat, untraceably, without using a centralized crypto exchange. (Governments will no longer have a neck to press a jackboot on.)
-Bitcoin Portfolio
-CBS's Showtime caught mining crypto-coins in viewers' web browsers
-Managed to squeeze three Bitcoin references into the segment being aired on local news. I'll post video once it airs.
-Best software wallet before incoming fork?
-Coinbase not allowing PayPal as payment method?
-Theft in a Bitcoin society
-Gitcoin Launches Today, Pushing Open-Source Forward With Cryptocurrency Bounties
-WooCommerce Installation: "Which currency will your store use?"
-Rethinking Bitcoin’s Fee Market – Aviv Zohar – Medium
-Bitcoin as a birthday present??
-New phishing attempt from domain https://blockchfain.info/ info, please report and upvote for visibility!
-What is the date the Segwit2x hardfork is expected to be implemented?
-@jack upholding his side of the NYA and introducing SegTwit2X early
-How can you run the legacy blockchain.info wallet? Their github is only js files
-Best web wallets?
-Jaxx is a rip off
-Country / Do you declare your BTCs and Altcoins?
-I'm curious, does Garzik / Bitpay really run / intend to run that S2X client called btc1 ?
-Trouble with Xapo - avoid
-A Crypto Fund King Says Bitcoin Will Be the Biggest Bubble Ever
-BitcoinCash -> more users? LOL! He must be joking right?
-CBPM Establish Blockchain Research Institute in Hangzhou
-30 years bet: 1 BTC or flat in Krakow?
-Goldman Sachs blockchain ad found browsing /r/Interestingasfuck
-Question regarding buying bitcoin?
-Google image searched "Bitcoin barf". Was very confused. Not what I expected.
-Global top 10 game publisher Nexon just bought crypto exchange 'Korbit'.
-BITFINEX, IP Whitelist, need help here please
-Puerto Rico , Power Outage.
-Gavin Andresen on Twitter: There may be BTC drama at the end of this year.
-Cryptocurrency Atomic Swap Spree Brings Industry Closer to Decentralized Dream
-SEC is getting serious about bitcoin fraud and fake news used to manipulate prices
-How long has it been since we've been 24 with less than ~$110 variation?
-Sunex Lets Members Purchase Solar Cells and Distributes Profits as Bitcoin or Fiat
-Goldman Sachs is running blockchain ads on Snapchat.
-Bubble or Not, There's Money to Be Made Off Bitcoin: Mike Novogratz
-Nexus Conference Stream 9/23/17 Pt. 1
-I know it's been few days(or more) since China banned bitcoin, but can someone explain to me political reasons why they banned bitcoin?
-How do you value bitcoin?
-Vinny Lingham Segwit2x emails
-I posted a link to an article I just read about president of European Central Bank saying that ECB has no power to regulate bitcoin. If that's true, do you think that will make European governments hostile towards bitcoin?
-I’m also having an issue
-What is the best argument for why full (non-mining) nodes are important
-Find and switch my BCH
-Has anyone else tried connect P2P?
-Bitpay added bcash support to their wallet, still no SW.
-Which is the first website where people traded bitcoins ?
-Can somebody please remind me why I am investing in altcoins. Sometimes I just think buy all bitcoin.
-Found This Piece of Bitcoin History from My First Purchase of BTC
-the mighty 'Jesse Ventura' is also in the bitcoin army!!
-Exchanges that don't use forced arbitration?
-ETF.com CEO: Bitcoin Futures-based ETF Likely to be Introduced by the End of 2017
-I've bought something with Bitcoin and it was not clever
-Successfully claimed bitcoin cash BCH
-Complete full Audit of Bitcoin source code
-China (Re-)Discovers P2P @LocalBitcoins Trading - Volume Records for Last Week
-Watch "Lightning Network with Jameson Lopp" on YouTube
-Retailers in South Africa are now widely using Bitcoin, from ecommerce to major grocery outlets
-Minneapolis, MN monthly meetup venue change to Silicon Prairie's new digs
-Sweden considering a digital currency, bitcoin technology comes in mind.
-Very cool bitcoin hologram art
-Digital-Currency Milestone: Somebody Just Bought A House With Bitcoin
-wolf of wallstreet..another idiot???
-After bitcoin takes over the paper dollar, and becomes more valuable than gold or any precious metal, how are useful things like fruits and vegetables, food, and medical supplies gonna be payed for? By barter?
-Is there a wallet that supports all coins? If not, why?
-JCoin
-Popped my Bitcoin transaction cherry!!
-Interview with the Steve Jobs of CryptoCurrency - TENX
-nChain's Inventions to Enable Bitcon's Future - Jimmy Nguyen - Hong Kong...
-Morgan Stanley Ex-CEO to Launch Cryptocurrency Game-Changer
-I am using Trezor through Android (Mycelium). I added my Trezor account on Mycelium and sent funds to the Trezor account. So what is holding my bitcoins?
-Cryptocurrency implementation book recommendations
-Bitcoin Shoutout
-Will binance (BNB) be included with other Chinese exchanges being closed at the end of the month?
-Free electricity with Antminer S9?
-Overstock.ca, cant find Bitcoin option.
-Being a hodler is 10% elation when price skyrockets, 10% freak out session when price tanks and 80% boredom when price movements are small.
-Any ideas what does this tweet by @ElectrumWallet mean?
-"nChain's Inventions to Enable Bitcon's Future"
-Bitcoin Businesses Face Bank Account Closures in Singapore
-Through the Roadblock? Bitcoin's Price Might Be Priming for a Boost
-Someone said, "Don't purchase stuff with bitcoin cuz we have to hodl Bitcoin." That's terrible mindset.
-New SEC Cyber Unit to Police ICOs and Other DLT 'Violations'
-European Central Bank President: No Power to Regulate Bitcoin
-Please ....
-How often do you make a bitcoin trade/purchase?
-Bitcoin Shirt of the Day: Bitcoin Jesus
-CryptoHoodies for Crypto? Realised coinpayments.net was a thing. Wondering if there's interest
-European Central Bank President Draghi: "It's Not Within Our Powers to Prohibit or Regulate" Bitcoin
-Block Digest going live 'BRB - Season 1 Review'
-an old screenshot could be the most effective drug rehab program to ever exist?
-ironic
-Can i spend my bitcoin here?
-What's missing for Fiat-BTC atomic swap? Stocks-BTC atomic swaps?
-Get a bloody hardware wallet
-i cant believe it
-The world's first blockchain smartphone is in development!
-Over CNY120 mln Weekly Volume, Bitcoin OTC Exchange At Highest In China
-Started playing around with @lightning visualization tools for @ln_zap today
-Coinbase rules!
-Atomic Swaps - In Under 2 Minutes :)
-This will be the first time major exchanges and majority miners are going against the core devs. Should we be worried?
-BK & TENX PAY 💳 Dr Julian Hosp Blockchain Technology 2017 Comit Simpsons FinTech Startup Steve Jobs
-The New Era of Bitcoin Investors
-I'm sick of this low-res Bitcoin price. Bring on the return of 4K.
-Please, somebody tell this guy that Roger is not the "Bitcoin Jesus" anymore.
-Why Investment Bankers are So Mad About ICOs
-My college is hosting an event where participants can join a team to solve real-world problems utilizing blockchain technology!
-Here we go again 🎢
-What are the blocks of the block chain named?
-Looking for BitcoinWare address or information so I can take them to court.
-Japan's big banks plan digital currency launch
-Saw this on CNBC about crypto hedge funds Good news? Bad news?
-Which Asian economies, in your opinion, will be more acceptable to bitcoin, and which less?
-Question regarding soft forks
-What are the fundamental differences between Bitcoin and an alt?
-Singapore Cryptocurrency Firms Facing Bank Account Closures
-Turkish man gives wedding pair Bitcoin as wedding present
-Are Satoshis so small in case one day if bitcoin goes to the moon, we'll have to trade in Satoshis which will make the numbers more manageable and whole?
-When Electrum 3 is released, should I upgrade both watch-only and offline wallets to get full SegWit functions?
-As Cash Use Plummets, Swedish Government Begins Testing Cryptocurrencies
-Mario Draghi Says ECB Has "No Power" to Regulate Bitcoin
-Where to buy suits & shirts using Bitcoin?
-Tax Law Refinement Discussion
-Meet the hottest thing in hedge funds right now: the 'crypto-fund'
-Gaming Firm to Buy $80 Million Stake in Korean Bitcoin Exchange Korbit
-Quantitative Tightening, Bitcoin, and Currencies w/ Grant Williams Highly recommended podcast!
-Is it possible to buy Bitcoin online without ID?
-Kranj (Slovenia) is the first place in the world where a regular ATM is located, where you can also raise the Bitcoin crypto currency.
-Could there be any good side of Bitcoin ban in China? Like any new opportunity useful for Bitcoin?
-When was the first cross-chain atomic swap?
-SPACESUIT X - Open Source Analysis Method for Digital Assets
-Analogy time.
-London Gold Dealer Sharps Pixley to Accept Payment in Bitcoin - The New York Times
-We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
-Electrum wallet stuck on synchronizing
-Everyone's Wet Dream
-Bitcoin Probable Price Range for 9-26-17
-Ósmosis of wealth from fiat to Crypto.
-Can I buy stocks with Bitcoin?
-SF Bitcoin Meetup - The China Update Panel
-BTCC going crazy
-Why are people spelling "hold" as "hodl"?
-You get a lot of persons in bitcoin that don't know anything about economics but think they do and they are loud about it....
-Coinbase - Sell BTC for paypal money if "Buys not available in your country"
-Unlike a bubble, bitcoin breathes
-Does anyone have the Mike Novogratz interview on BTC from today?
-The Man Starting the Biggest Crypto Fund Says Bitcoin Will Be the Biggest Bubble We've Ever Seen
-A visualization of what bitcoin does to fiat money and governments.
-Can someone tell me why I shouldn't use Coinomi?
-Sold something for the first time using BTC
-Coin flip for bitcoins at certain online casinos seem very predictable.. almost making it too easy to win.
-They just don't get it: Ukrainian Central Banker: Bitcoin Is 'Definitely Not a Currency'
-The BBE Project: Buy Bitcoin Easily
-Bitcoin Network Status Update Tuesday, September 26, 2017
-Are the "Getting Started with Bitcoin" guidlines on bitcoin.com legit? I'm ready to buy-in to the game.
-Maybe Segwit2x/Jeff Garzik is just trying really hard to prove Bitcoin is censor resistant by attacking the network? Regardless... Get ready Bitcoiners!
-It's official, I'm a Bitcoin HODLER now!
-Found this one in Katowice, Poland (a photo from FB)
-Had a mini heart attack when my Bitcoin Ticker randomly decided to switch from BTC->USD to mBTC->USD
-Bitcoin Tshirt.
-Banks after the bitcoinization.
-How can I future proof my coins in case November's fork is going to happen without reply protection?
-Alternative to Copay?
-Well everyone, finally these mofos are talking about us.
-Druglords and Arm dealers ditching crime for Bitcoin Mining? ⋆ Kryptency
-[Insight Wanted] Newb attempting to transfer Bitcoin to Hardware Wallet/Claim BCH from Coinbase
-FORTUNE: What happens to your Bitcoin when you DIE?! [VIDEO]
-(Bitcoin and other) E-currency fast enrichment contains risk. | Econimic Hub : Economy and Web economy analysis
-LON is the first Bank in Slovenia(world?) to implement Bitcoin on their ATMs (Video in Slovenian)
-Venezuelans have been buying food from the internet with Bitcoin for a while now. (Fox Business)
-Any investing advice for a beginner?
-Best Cryptocurrency Exchanges - Ultimate Guide
-Question on how to use Kraken
-Xapo wallet allowing exchange of BCH (possible price increase)
-China ! After Ban Of Crypto Now Its Time For Whatsapp , Whats Next China ?
-Bitpay/Copay/Coinbase/Bitflyer merchant transaction volumes?
-My wife got this as a tip, she's a waitress. She's convinced it's real. Can someone confirm?
-Crypto Update - 25th of September 2017
-Bitcoin trading at $7200!...in Zimbabwe.
-Buying Bitcoin is WAY easier than everyone makes out.
-How legit is Bitconnect? (it does look kinda shady)
-Just got my new shirt printed by u/Th1nkpatriot from u/tryingtodoarts design. LOVE IT!! Thanks r/bitcoin for having an awesome community!
-Prints of my latest art now available
-"Should we run away from gold to buy bitcoins?" says the number 1 economic magazine in Switzerland on its front page today.
-I made an Android app to track the balance and fiat value of cryptocurrency wallets to streamline portfolio management
-Somerville, Massachusetts
-Using spare electric with a BTC rig.
-Are Coinbase and LocalBitcoins the only exchanges with non-shady website designs?
-Would you say that grocery stores (like the one in Australia, pick n pay i think), real estate companies etc. accepting bitcoin as a global trend they must keep up with or as sort of an experiment?
-Equip Tin Foil Hats: Maybe Jamie Dimon had a good reason to bag some cheap BTC
-I made an Android app to track the balance and fiat value of cryptocurrency wallets to streamline portfolio management
-Singapore cryptocurrency traders wake up to a surprise... ACCOUNTS CLOSED!
-Is my consideration for the future of Bitcoin legit?
-GDAX no fee to paper wallet?
-Companies That Accept Bitcoin?
-One of the biggest ISPs in Bulgaria now accepts Bitcoin!
-Shannon Sharpe Mentions Bitcoin in piece about Trump and NFL - 1:50ish
-Draghi says: It's not in the ECB's power to prohibit or regulate Bitcoin
-Brock Pierce @ The World Blockchain Forum
-Coin Sheet - September 26, 2017 (Daily Cryptocurrency Newsletter)
-Why major exchanges haven't implemented segwit yet?
-Bitcoin QR Codes for charities?
-The US ranked as 22nd most bitcoin-friendly country
-I fucked up with my income via bitcoin.
-23-day downtrend has been reversed, and the buyers will try to fix the price in the ascending channel.
-Poloniex withdrawal ERROR ?? Anyone had this problem ???
-Help me understand Wallets...
-Supporting Segwit2x (btc1) equals abandoning BTC protocol development. Only pull request in September is a WIP rebase of Core 0.15.0
-Singapore-Based Bitcoin Startups Deal With Bank Account Closures
-Japan's Financial Authority to Begin Bitcoin Exchange Surveillance Next Month
-Website for buying Bitcoin and Altcoins in New Zealand
-What Does The Future Of Crypto Currencies Hold? With Shaka Daniel
-SEC.gov | SEC Announces Enforcement Initiatives to Combat Cyber-Based Threats and Protect Retail Investors
-Price stall?
-For anyone interested - University College London job - Research Associate – Blockchain technology for Algorithmic Regulation and Compliance
-Introducing NVT Ratio (Bitcoin's PE Ratio), use it to detect bubbles
-Crypto Currency Technical Analysis Report (Sep 26, 2017) ⋆ Kryptency
-4 questions for Hardware Wallet users
-Segwit?
-SEC creates “cyber unit”
-Sadly enough, JPMorgan moving to Poland.
-Forbes: The Case For A $10,000 Bitcoin
-Fee prices are market based. If we want them to be cheaper we just have to pay less, and get wallets to change their algorithms
-New Cryptocurrency AML Bitcoin Launched in Panama
-Why Governments Can't Stop Bitcoin: Atomic Swaps & Decentralized Crypto Exchanges
-Did anyone, when they first find out about bitcoin, thought ' I'm not completely sure about this, but I'm going to try it anyway.'
-I hate the idea of North Korea mining bitcoins.
-Bitcoin Priced at $7,200 in Zimbabwe
-I spent the past month writing this, a timeline of bitcoin vs gdp and gold
-Bitcoin bombs the bourse
-Gemini approved me in 16 hours
-trying to cash out my coinbase account and send to bitpay debit card and a little overwhelmed
-Looking for US Bitcoin Debit card providers
-Bitcoin ATM near Albany or Saratoga- any advice appreciated
-Why ate there no more online posts warning caution on crypto? Please dont down vote, I have Aspbergers.
-Why Bitcoin May Reach $20,000 Per Coin Sooner Than We Think And Hope!?
-Sharps Pixley Now Accepts Bitcoin As Payment For Gold
-How safe is Paypal for trading BTC?
-Better get Bitcoin: Man Caught "Walking Suspiciously" With 1 Kilo Bar In Rectum
-The Lonch Ness Monster wanna go to the moon too.
-Does anybody the realise date's of Antminer S1, S2, S3, S4, S5, S7 and S9?
-That feel...
-Noob here. I tried to transfer btc from breadwallet to coinbase. Transfer shows confirmed, but doesn’t appear in my coinbase app. How did I fuck up? Any assistance greatly appreciated
-A Deeper Look Into Bitcoin Internals
-Is there a simple way to send bitcoin to a person in UK with the ability to withdraw it to a bank account?
-Big Whale
-Bitcoin transfer time
-SECURE OPEN SOURCE CONSUMER ELECTRONICS FOR THE BLOCKCHAIN ERA. Move over androids,smartphone and pc's ...the new cold wallet for everyone!!
-A Glimpse at Six Unique Bitcoin Visualization Websites
-Blockchain set to transform retail industry
-China’s LocalBitcoins Sets an All-Time Trading Volume Record
-Warwick Harbour - “What Are Digital Asset IRAs? — By Damian Gutman”
-Roger Ver is a small blocker. Proof!
-Just started Using GDAX
-When I sell, bitcoin rises. So here's the deal: if everybody sends me 0,1 btc, I will sell and everybody profits!
-Bitcoin trading with... copper? Bloomberg
-So I now have 0.32 of a bitcoin or 32 Million Satoshis
-Which software wallets are SegWit ready?
-CRYPTOCOINS NEWS: "The Zenome Platform is going to raise awareness on genomic medicine"
-HODL Blind Justice Bitcoin Dark T- Shirt
-Localbitcoins Compensates Users by Selling BCash for BTC - Bitcoin News
-We have seen this before
-Bitcoin ATM Start Up in Texas
-Segwit2x Questions
-Tees fit for a crypto geek 🤓
-Which are your recommended Bitcoin wallets in 2017
-Bitcoin's Biggest Risk - And No, It's Not Government
-Exciting Interview with Josh Petty (Coindex & Crypto Aquarium)
-Alternative to Joinmarket bitcoin mixer is in the making. Asking for suggestions
-Towards Better Understanding of Bitcoin Unreachable Peers
-Why did so many wallets scramble to support bch, but no one supports segwit a month later?
-How to track your bitcoin
-Digital Bitbox hardware wallet is garbo
-Separate system for storing coins
-Russia Today: ‘China Effect’ on oil and bitcoin markets.
-It's not hard folks
-Armory wallet: Fragmented backups may be compromised!
-The Promise of the Blockchain: The technology behind bitcoin could transform how the economy works
-Is this legit? Has anyone spent Bit on property investments? Has anyone even got that much gainz!
-Future of Bitcoin?
-Kraken deposit issues for US customers???
-If i lose My iPhone with Breadwallet
-Classic 'Lost password' question
-Bitcoin Price Eyes $4,000 Again After A Bearish Weekend
-"Bitcoin investors should be taxed like any other investor"
-This U.S. Senate candidate accepts donations in bitcoin and gives away AR-15 rifles
-How many transactions per second can bitcoin currently do?
-Zazzle cancelled my order for this t-shirt because the design is in conflict with their guidelines. Do you guys know where can I get this printed on a shirt?
-Ray Dalio, the hedge fund manager who insulted BTC and its users, was just excoriated in the WSJ for his lousy money-management.
-Does Bitcoin need fiat to have value?
-Hyperinflation - this could be the normal price soon?
-When will Blockchain.info support Segwit addresses?
-Key resistance at 4000 USD, if the 4k sell well can be crossed - buckle up for the moooon
-MySpace, Napster, ICQ, Webcrawler, Netscape Navigator.... is there ever a fear that Bitcoin may end up sharing the same fate?
-Quick question about bitcoin protocol
-Are Crypto Exchanges About To Go De-Centralized? (includes atomic swaps)
-The Economist on Twitter: The technology behind bitcoin could transform how the economy works
-LocalBitcoins completes user credit and swap of Bitcoin Cash for BTC
-5k bouce back from this FUD please
-Get your priorities straight
-Enough is enough. It's time to get to the bottom of this! Is segwit 2x happening or not?!
-Driving through Atlanta and saw this on the side of the highway. Looks super legit!
-Coinscrum {social}: w/ RSK Co-founder Ruben Altman
-North Korean Bitcoin article written by a moron...
-What to do before a blockchain hard-fork
-Shannon sharpe mentions bitcoin on live television
-Daily: Bitcoin Market Update, Ghost month also over.
-FORBES: Why China's Ban On Bitcoin May Be Temporary
-Bitcoin Price Surpasses $3,950 by Recording 7.11% Increase as US-North Korea Tension Intensifies
-Crypto Currency Technical Analysis (Sep 25, 2017)
-How to move bitcoin from bread wallet?
-[Joke] China just banned Jamie Dimon -> BTC up by 100$
-Puert Rico
-2017 was the year that central banks really took notice.
-Help with Instawallet.org recovery...if even possible.
-Localbitcoins started processing BCH airdrops
-The Man Starting the World’s Biggest Crypto Fund Calls Bitcoin a Bubble
-Daniel Krawisz rationalizing away every criticism of 2x coin including the lack of replay protection
-Inventor Of The Initial Coin Offering Unveils Initiative To Put "A Bitcoin ATM on Every Corner"
-Cryptocurrencies as Abstract Lifeforms – Jordan McKinney – Medium
-Novogratz Explains Bitcoin's Appeal to Macro Traders
-A Slovenian Savings Bank's Traditional ATM Dispenses Bitcoin Vouchers
-Coinsource BTC ATMs are exercising a level of identity tracking that makes me uncomfortable. (screenshots in texts)
-Using electrum in latest TAILS OS
-If you support low fee transaction you have to support SegWit
-Opinion: Bitcoin is Hitting the Big Time
+We need to find a name for 1 unit of mbtc
+Bitcoin vs. Gold:
+PSA: Coinbase trying to scam userbase into buying 2x coin as Bitcoin
+NYA signers love to say we're on the same side. We are not. If you're pushing a contentious fork that will harm #Bitcoin, you're an enemy.
+Gold Reserve exposes Giant Gold Game
+What the shit happened here??
+Comparing Google Assistant to Siri, I asked about the price of Bitcoin. Google got the right answer but Siri got the last laugh.
+What If US Dollar Was Just Another Cryptocurrency? Expert Blog
+First you win
+It's a SCAM! A list of websites, trying to steal your Bitcoins
+What happened to Bitmain vs Great North Data legal battle?
+Have you noticed we have a post on r/all almost every other week these days?
+TIL an ex colleague of mine wrote an excellent blog post about Bitcoin in 2009.
+Got bored at work today. Hodl guys, see you at the moon.
+Still can't find a decent exchange
+CryptoMaps - Cryptocurrency Market State Visualization
+S2X supporters 'just calm down'
+Dallas Jury Nails J.P. Morgan Chase with $4B Verdict in Estate Fraud Case - Bitcoin a Fraud eh?
+Aside from politics and relay protection, what are the technical problems with increasing the block?
+Future vs the past
+How many bitcoins is not save anymore on only digital wallet?
+Why wait until 100K my friend? I'm rubbing it in their faces now!
+Question about future scaling?
+Anyone has experience with SALT Lending?
+Why aren't more people concerned about the lack of replay protection?
+Pick n Pay: evolving payment methods
+Jordan Belfort calls Bitcoin "a fraud." Who's next? Bernie Madoff?
+Bahrain “Open to Bitcoin” and Blockchain
+I know that we have already a lot of S2X posts, but, until November they won't be enough till we kill it.
+How much bitcoin is too much to have on a desktop/mobile wallet?
+Macau Regulator Forbids Banks from Serving ICOs, Cryptocurrencies
+Gant Travel Launches Full Virtual Card Solution, Accepts Bitcoin
+Hyperbitcoinization? Bitcoin Trades At 85% Premium In Zimbabwe - Priced At $7,200
+Could someone clarify what is this mempool issue Tone Vays is talking about here?
+Bitpay jumping on the bcash bandwagon
+As a newb to all this with coins on exchanges supporting 2x what are my options before the fork? and what happens to my coins after?
+What really gives Bitcoin it's value.
+Tumbler questions
+Top 50 Crypto Assets | Drawdown | 170928
+BANKALAR BİTCOİNDEN KORKUYORLAR // BANKERS BECONTRIBUTORS
+Bitcoin: Your New 'Safe Haven'
+Take off time ??
+Bitcoin - going to the mo... South Africa!!
+Whatever happens remember this: "Bitcoin is at $4,000 and Gawker is dead." Long live Bitcoin.
+Are my coins safe?
+Where to buy cheapest bitcoin for GBP
+Staking Sidechains? New Paper Proposes Twist on Bitcoin Tech
+Watch out! Fake bitaddress
+Question about Coinbase
+16 BİTCOİNE İZMİR’DE BİNA!
+Overstock spiked 23% today, anything to do with their new Bitcoin trading platform going online soon?
+Tijuana soccer game
+What is going on?
+In Bitcoin Testbed Venezuela, 1 Bolivar Now Equals 1 Satoshi
+How to really support the NO2X Movement.
+Stay Away from these SCAMMERS BITCOIN MINING COMPANY!
+If Coinbase.com commits to the 2x chain, I may have to seek another exchange.
+Bitcoin broke through $ 4,200
+Andy Hoffman - centralization has enslaved the world - decentralization will free it.
+Bitcoin Prices Steadies Strongly Above $4000 Without The Chinese Influence
+*Must read for newcomers* My friend worked in the Bitcoin industry (broker) for a couple of years and has been involved in the crypto world since 2014. This is what he had to say about the recent politics of btc when someone asked him on our crypto trading channel
+İNGİLİZ FİRMA DUBAİ’DE BİTCOİN İLE EV SATIŞINA BAŞLADI
+Bitcoin hard forked before Bcash, do you know which coin it is...?
+And the shitshow begins
+The reason Eric Voorhees is being politically neutral is because he wants bigger blocks to serve his business model....
+Bitcoin Prices Firmly Above $4000 Without China
+The segwit2k code is a mess
+Who needs china? Next stop $ath!
+Bahrain May Adopt Bitcoin and Issue Bonds in Digital Currency
+Silbert-Backed Bitcoin Investment Trust Withdraws SEC Application
+Craig Wright a year ago: Sorry and goodbye
+Sebi working on framework to regulate bitcoin market
+2x is the end of bitcoin as we knew it. Coinbase, US, banks are friends [xpost from bitcointalk]
+Bitcoin Prices Firmly Above $4000 Without China
+Here's what happens with your bitcoins when you die
+How to transfer btc out. Newbie here.
+Idea: Physical Bitcoin Network?
+Grayscale Investments, LLC Announces Withdrawal of Bitcoin Investment Trust ETF
+"Bitcoin is a scam" and other common phrases...
+As the years goes by and more new alt coins happens, what separates the coins from each other?
+Can Bitcoin Really Be Regulated?
+What do you think?
+If 1 Bitcoin hit $500k or 1million USD at a time when you'd like to retire, what would you do?
+CoinGate Challenges - Wrap-up and Solutions. NEXT ROUND SEPTEMBER 30!
+ViaBTC open-sources their trading engine
+Is this fake news? Amazon could be planning to accept bitcoin
+Predictions and scenarios
+Morgan Stanley CEO Rejects Dimon: "Bitcoin Is Certainly More Than A Fad"
+Can people on Localbitcoin just makeup whatever price they want when you meet them to buy in cash?
+Bitcoin is trading according to the principle of three-field farming
+Segwit2x support 5; [NO2X] support got to 500 and got tired of cointing.
+Cryptocurrency news – September 27
+Coinbase to Gatehub transfer
+Remember, UASF, not NYA activated Segwit. Many NYA signers suffer from extreme mental masturbation.
+Electrum wallet show 0 BTC balance and no history. Please help me recover my coins
+Should you add Bitcoin to your IRA?
+Question about bitcoin merchandise from a noob.
+Trezor Wallet Arrived in U-Haul Truck/Van. Safe To Use?
+Choose wisely.
+"Early Adopter"
+Swedish Firm Reports Jamie Dimon for Market Abuse
+Got a little over 7000$ to invest in btc. Buy now or wait?
+(x-post from r/mtgoxinxolvency) Things Mark Karpeles Has Said Which Later Turned Out Not to be True
+Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading
+In 2140 when all coins are mined...
+New Webcomic: Crypto - A fictional adventure exploring cryptocurrencies and blockchain.
+I just got my first bitcoin t-shirt. I will wear it with pride.
+Look who is inside the S2X-DCG Trojan horse. Burn this Corporate-takeover attempt down before it even gets close to the gates.
+PSA: Despite the very high level of demand Legder Nano S' are being shipped
+I've been following Bitcoin since it was $768.00 which is when I made my original prediction, here's a picture just to remind everyone just how far we've come. Date 2017-02-08.
+Has the effect of the China regulations blown over?
+4k finally
+Chris DeRose visits the Dragons Den.
+new split ?
+Google Authenticator vs Fido Universal 2nd Factor
+Me, a btc dummy, trying to understand this whole Segwit situation.
+Popular Wallet/Sites around 2007-2010?
+What Happens If China Bans Bitcoin Mining: 3 Scenarios
+4.2k finally!
+Ontario Securities Regulator on Bitcoin and ICOs
+Genesis Mining...
+Anyone who thinks developers will work on segwit2x/NYA hasn't been paying attention
+Goldman Sachs advertising expansive future of blockchain in this info graphic. They must have a large position somewhere in the crypto space.
+Should i buy?
+Im writing this paper about bitcoin for class and MS word wants the replace Jamie Dimon’s last name with Demon! lol
+I know this may not be the place for it, but there's an iniciative to help raise money for Mexico's earthquake rebuilding via cryptocurrency mining. Many of us have good stations, please help if you can spare it!
+Help me expose Bitcoin ponzis like BitConnect
+Satoshi's reason for 21M cap?
+Why don't the people that want 2x go over to bCash?
+Bitcoin HF contemplation
+SegWit2x/NYA support overview (segwit.party/nya alternative)
+How to convert bitcoin to fiat currency if required
+Should I buy now ?
+Moon or Hell?
+Bitcoin: What is happening now?
+Ironic ad on the side of the House of Morgan, the former JP Morgan building, 23 Wall Street, NYC. [taken August, 2015]
+They refuse to add replay protection not because they believe its an "Upgrade" but because they do not believe the user has a choice in the matter
+Bitcoin is Outside the Regulatory Jurisdiction of the European Central Bank
+ATTENTION: Shapeshift.io scam websites have appeared on Google Search..
+Why Price Crashes Are Healthy For Bitcoin
+Why Jamie Dimon and terrified governments won't be able to stop Bitcoin
+To The Moon! (my new desktop wallpaper)
+First Cash, Now Gold? Another Bitcoin Hard Fork Is on the Way
+Ps3 cluster mining bitcoins
+Is ignoring Segwit2X an option?

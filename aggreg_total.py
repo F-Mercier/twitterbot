@@ -10,7 +10,7 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
-twitter = tweepy.Cursor(api.search, q='bitcoin', lang='en').items(500)
+twitter = tweepy.Cursor(api.search, q='bitcoin', lang='en').items(200)
 
 tfile = open('data/test.txt', 'w')
 
@@ -32,7 +32,7 @@ reddit = praw.Reddit(client_id = r_client_id, client_secret = r_client_secret, p
 
 rfile = open('data/testreddit.txt', 'w')
 
-for submission in reddit.subreddit('bitcoin').hot(limit=500):
+for submission in reddit.subreddit('bitcoin').hot(limit=200):
     rfile.write(submission.title.encode('utf-8') + '\n')
 
 rfile.close()

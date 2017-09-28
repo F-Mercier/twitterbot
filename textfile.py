@@ -1,23 +1,14 @@
-import tweepy
-import praw
-import markovify
-import re
+import tweepy, praw, markovify, re
 from credentials import *
 from credentialsreddit import *
 
 #Twitter aggregation
 
-print 'Authenticating on Twitter...'
-
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
-print 'OK\nSearching...'
-
 twitter = tweepy.Cursor(api.search, q='bitcoin', lang='en').items(500)
-
-print 'OK\nFiltering tweets...'
 
 tfile = open('data/test.txt', 'w')
 
@@ -35,11 +26,7 @@ tfile.close()
 
 #Reddit aggregation
 
-print 'OK\nAuthenticating on Reddit...'
-
 reddit = praw.Reddit(client_id = r_client_id, client_secret = r_client_secret, password = r_password, user_agent = r_user_agent, username = r_username)
-
-print 'OK\nSearching...'
 
 rfile = open('data/testreddit.txt', 'w')
 
@@ -50,19 +37,15 @@ rfile.close()
 
 #Markov print
 
-print 'OK\nReading output files...'
-
-with open("data/test.txt") as ftwitter:
+with open('data/test.txt') as ftwitter:
 	texttwitter = ftwitter.read()
 
 ftwitter.close()
 
-with open("data/testreddit.txt") as freddit:
+with open('data/testreddit.txt') as freddit:
 	textreddit = freddit.read()
 	
 freddit.close()
-
-print 'OK\nMarkovifying...'
 
 tmtwitter = markovify.NewlineText(texttwitter)
 
@@ -70,11 +53,8 @@ tmreddit = markovify.NewlineText(textreddit)
 
 modelcombo = markovify.combine([ tmtwitter, tmreddit ])
 
-print 'OK\nDisplaying tweets...'
-
 regex_bitcoin = r'[^#](?i)(bitcoin)'
 
-for i in range(10):
-	markov = modelcombo.make_short_sentence(140)
-	markov = re.sub(regex_bitcoin, ' #bitcoin', markov)
-	api.update_status(markov)
+markov = modelcombo.make_short_sentence(140)
+markov = re.sub(regex_bitcoin, ' #bitcoin', markov)
+api.update_status(markov)
